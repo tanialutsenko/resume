@@ -19,4 +19,5 @@ GIT
 тел. +7 (905) 753-85-21
 email: lutsenkovigstar@yandex.ru 
 tg: +7(905) 753-85-21
+портфолио: https://github.com/tanialutsenko/VK-bot
 
